@@ -24,5 +24,8 @@ Awesome list for st - suckless terminal resources
 ## Videos
 - [The Simple Terminal: st from Suckess, and how I extend it](https://youtu.be/uqLcvKYl-Ms)
 - [st - The Suckless Terminal](https://youtu.be/s2q89ABrXao)
+- [My st (suckless terminal) Build: The Even Bester Terminal!](https://www.youtube.com/watch?v=FJmm7wl4JUI&ab_channel=LukeSmith)
+- [Install/Uninstall Suckless Simple Terminal (st)](https://www.youtube.com/watch?v=jcpjpugBNPI&ab_channel=BrodieRobertson)
+- [Learning about st or simple terminal - changing font size and color](https://www.youtube.com/watch?v=zLgfEOPQ714&ab_channel=ErikDubois)
 
 ## Podcasts
