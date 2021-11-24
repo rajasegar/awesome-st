@@ -17,6 +17,7 @@ Awesome list for st - suckless terminal resources
 
 ## Forks
 - [LukeSmithxyz/st](https://github.com/LukeSmitxyz/st) - Luke Smith's fork of st
+- [xst](https://github.com/gnotclub/xst) - st fork that uses Xresources and some pretty good patches
 
 ## Posts
 
